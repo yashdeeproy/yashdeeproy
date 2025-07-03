@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdeeproy" alt="yashdeeproy" /></a> </p>
 
-- 🌱 I’m currently learning **C++,Js**
+- 🌱 I’m currently learning **C++,MERN Stack**
 
 - 👨‍💻 All of my projects are available at [github.com/yashdeeproy](github.com/yashdeeproy)
 
