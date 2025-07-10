@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Yashdeep Roy</h1>
 <h3 align="center">Exploring</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdeeproy&label=Profile%20views&color=0e75b6&style=flat" alt="yashdeeproy" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdeeproy" alt="yashdeeproy" /></a> </p>
 
