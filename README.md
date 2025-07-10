@@ -3,9 +3,9 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdeeproy" alt="yashdeeproy" /></a> </p>
 
-- 🌱 I’m currently learning **C++,MERN Stack**
+
+- 🌱 I’m currently learning **C++,MERN Stack,DSA**
 
 - 👨‍💻 All of my projects are available at [github.com/yashdeeproy](github.com/yashdeeproy)
 
@@ -69,4 +69,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashdeeproy&show_icons=true&locale=en" alt="yashdeeproy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdeeproy&" alt="yashdeeproy" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdeeproy&" alt="yashdeeproy" /></p>
